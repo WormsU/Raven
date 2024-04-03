@@ -1,0 +1,4 @@
+{
+    "WebhookURL": "https://raven.cyclic.app/webhook",
+    "PayloadURL": "https://raven.cyclic.app/loader"
+}
